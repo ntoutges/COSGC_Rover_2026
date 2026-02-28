@@ -1,0 +1,15 @@
+# DEV ROVER PINOUT
+
+Microcontroller: ESP32 C3 Super Mini
+
+## I2C
+
+8 <= SDA
+9 <= SCL
+
+## Motor Driver
+
+0 <= MOTOR B (2)
+1 <= MOTOR B (1)
+2 <= MOTOR A (2)
+3 <= MOTOR A (1)
